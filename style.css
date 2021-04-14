@@ -6,4 +6,8 @@ h1{color:grey;font-family:verdana}
     color: black;
     border-radius: 25px;
     align-items: center;
+      margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
 }
